@@ -1,18 +1,14 @@
-h1 {font-size:48px;}
-
-post-heading {
-  text-decoration-color:#006633;
-  font-size:1.8em;
+h1{
+  font-size: 48px;
+}
+.post-heading {
+  color: #006633;
+  font-size: 1.8em;
 }
 #main-nav {
-  font-size:1.3em
+  font-size: 1.3em;
 }
-blockquote {text-decoration-color: #33cff;
-font-size:1.3em;
+blockquote {
+  color: #33ccff;
+  font-size: 1.3em; 
 }
-body{text-decoration-color:#777}
-
-post-heading{h3}
-
-<div class="post-heading">
-<h1 id="main-nav">main-nav</h1>
