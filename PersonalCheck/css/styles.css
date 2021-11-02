@@ -1,0 +1,36 @@
+h1{
+  font-size: 50px;
+  font-family: monospace;
+  color: white;
+}
+h2{
+  color: rgb(92, 40, 0);
+}
+h3{
+  color: white;
+}
+h6{
+  font-size: 15px;
+  text-align: right;
+  color: rgb(92, 40, 0);
+}
+p{
+  color: white;
+  font-family: monospace;
+}
+body{
+  background-color: rgb(161, 107, 42);
+}
+ul{
+  color: white;
+  font-family: monospace;
+}
+a{
+  color: white;
+}
+a:link{
+  color: white;
+}
+a:visited{
+  color: rgb(92, 40, 0);
+}
