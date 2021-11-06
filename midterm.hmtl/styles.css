@@ -1,0 +1,87 @@
+
+img{
+  padding: 10px;
+}
+body{
+  width: 1000px;
+  padding: 15px;
+  background-color: #D3D3D3;
+
+}
+  header  {
+    padding: 20px;
+    font-size: 35px
+  }
+#reason{
+  width: 150%;
+  background-size: cover;
+margin-left: -30px;
+margin-top: -40px;
+
+}
+  #costumes{
+     padding-top: 25px;
+     text-align: center;
+  }
+  #Paragraph1{
+    padding: 15px;
+    margin: 15px;
+    text-indent: 50px;
+    font-size: 18px;
+  }
+  #tag{
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 25%;
+    height: 250px;
+    float: right;
+    background-color: #D3D3D3;
+    margin: 40px;
+  }
+  #sidebar{
+    margin: -5px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: blue;
+    font-size: 20px;
+}
+  #Page1{
+    background-color: white;
+    height: 1350px;
+    padding-top: -25px;
+    margin-top: 25px;
+  }
+  #Paragraph2{
+    padding: 15px;
+    margin: 15px;
+    text-indent: 50px;
+    font-size: 18px;
+  }
+  #costume{
+  width: auto;
+  padding-left: 15%;
+  }
+  #FYI{
+    padding-left: 15px;
+  }
+  #Page2{
+    background-color: white;
+    height: 1100px;
+    padding-top: 25px;
+    margin-top: 25px;
+  }
+  @media screen and (max-width: 64rem){
+      #demo    {
+      background: orange;
+      }
+}
+  @media screen and (max-width: 48rem){ /* 768/16 */
+      #demo    {
+      background: red;
+      }
+  }
+  @media screen and (max-width: 30rem) {
+      #demo    {
+      background: green;
+      }
+  }
