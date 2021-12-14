@@ -1,0 +1,74 @@
+* {
+	box-sizing: border-box;
+}
+html {
+    font-size: 16px;
+    line-height: 1.4rem;
+}
+img {
+	width: 100%;
+    max-width: 100%;
+}
+
+#Wlc{
+ margin-left: 45px;
+ padding-left: 35px;
+}
+
+#top-nav ul li a{
+	float: right;
+	display: inline;
+
+}
+ #top-nav ul li a:hover, #top-nav ul li a:focus,#top-nav ul li a:active{
+	 color: #16f;
+	 border-bottom: 2px color: #39f;
+ }
+#img1{
+
+	/*margin: 15%;*/
+	padding-top: 5%;
+	float: left;
+
+	width: 60%;
+}
+blockquote{
+	border-left-width: 2px;
+	border-left-color: #D3D3D3;
+	border-bottom-width: 2px;
+}
+#HHenry{
+	padding-top: 300px;
+	text-align: center;
+}
+#HiHen{
+}
+
+#HHenryimg img{
+	padding: 20px;
+	width: 400px;
+	max-height: 600px;
+	display: inline;
+	float: none;
+}
+
+#HCharlie{
+	text-align: center;
+}
+#HiChar{
+	text-align: center;
+}
+#HCharlieimg img{
+		padding: 20px;
+		width: 400px;
+		max-height: 400px;
+		display: inline;
+		float: none;
+}
+
+footer {
+    margin: 4rem 0rem;
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+}
